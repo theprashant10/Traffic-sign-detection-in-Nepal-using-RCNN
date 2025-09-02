@@ -1,0 +1,28 @@
+{
+  "version": "5.8.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gostraightonly",
+      "points": [
+        [
+          3.8999999999999915,
+          5.199999999999999
+        ],
+        [
+          25.299999999999997,
+          26.000000000000004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "00035_00013_00004.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABwAAAAdCAIAAAA2M5tmAAAES0lEQVR4nKWVW08bRxTHz5mZ3QXba+zYXMzF5ELiFgJJIGmrBhWRi1SpkfLSl0p9yDeI0s/QL5CHSq2qvlRqI/WlUiNVqkhJFaJEkXKrEkgKAUMwBBewwZf1endmTkWe0tayUdjXo/9Pv505cw4SEdT5rv905durT2T0/c+/WOD5m19/OWAMX7n83YVP6oVEvSIAHDjCI516LXfjx6uO1RTXMZPHKk6DkGhQb0uISHtSRIvbFbe8XdZSeariEADuBdoebes2o4xaKTP/NONsVz3tNDJlDeqgom1BztyBw93xZsNiDBk6lfIeoZ5lScarrl8wAgYaBjFUWtbPiEZQblohgnJVWsxqR6MSjSYUlQAiezFlwlUA1vKG64e6WPig3dq5kM+sAhTfHno/Y7ixrW0rs6nm82XWEiyrQnpr4Zvrs3WgWKf5l2bg2eyLqYeP57M54k2hqHGwq+XFzFxe8bzyUvuT7xzoO3v0+LHB3Z/pSuXuzOzNhVfpV1sCFMfi8dSx4b5EyK/eeTLbTOKv9NqG5jy3cYwPQn9749/XAHdXM89Xl5bTS1pbnlbDQ4dGUj1hUw0cSSY746hISHN9YfF5YfOrmaf/aTFWE7oFcC9bufdsBbVQWjbZ0VhLooVbYVO0BIK9nT2RkG0o2azEH7PZKdGd3g30999m7kzeZypIWlhIHXbUxCDnFilpB4KxgJ20w0HGtDLC2p7+9eHDyV1AV5ayzNNMa62rFlYOtttH9rd5Xhm0yq+/6u9N9CfiIa6BvDD53Tr3YPL7xhdVKHi+D0RA2kv0xLilpu7fisfM4cOJzPraytziy1xVBkxyXSQfdO7kqZR6LYh1TIvFLa0lkSbi8+m1yalHtx/MLeackibJg5OPF//cdNO5sgaDiJHSEzcm5OvrrWfaYgc5bTAgAEEYlJokcp8sXwPjIQ6R4mbVZBYhKkDScGZ8XLwhyGpCI2FtCYWAmkC9dva1dHzpawTkHFkTYwxIAxAiN2PT03n+xohlNaHHR/rA0AQMCYAAgRCIpOIgBDMYoNhh7jzFAsGGGT/x0WdvxllN6ImR/rFzpzSsIBRg52SJAUrPZeAbTHMkrXamH6JThOzA+XeHx6AxNAAw1t959vQBiSVgiIAITHpV0lXOd8RBaxcxz5yP3+u92C67/x0XNaEIkNrXkT40tFAQTx/NcGgiCkjfJB32qg6CNA1nC93U6ZODsdCnPcldD5RY88D+o8mOxIRZvnNvzjcC2qfpZ2sdwTCYHMG9dOGDvtTgUGsXtP7Pierv/aXC85fLP/z8y5qnioYwlWxGs4TWyfGRSxdHo2+5TnrD+yBlt4aFt7mez7rSL3nM9vmVi5f3sk4g3itGz33Y1RbtNI3S+qZTKdr5Vbh2DaACUHsDNoYSwK3bN5BrYCiQQ6WUZdXruRUAB8B/S6gGGB07jzyCrNlkRkg0/c2s2XhXYafxjJqZfwBK3AU5C9g/cwAAAABJRU5ErkJggg==",
+  "imageHeight": 29,
+  "imageWidth": 28
+}

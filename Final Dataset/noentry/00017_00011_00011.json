@@ -1,0 +1,28 @@
+{
+  "version": "5.8.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "noentry",
+      "points": [
+        [
+          3.6999999999999886,
+          5.400000000000002
+        ],
+        [
+          23.5,
+          25.000000000000004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "00017_00011_00011.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABwAAAAeCAIAAACwp+nIAAAEQUlEQVR4nFVWAXIjNwwDSK6dXtPp/z96ib0i2QG19qUeT8ZWVhQEgKD5+fcnCb3IOD7AWFmo7jqBOsIsnHGvsnOdnYsA0V3VrQ8gwaaWQBi6ujsAmOlJjyMiaNFY1dlAz142nFbQM1VgJ9Fh1qQe60S3ud+OWxazVucKkmbuHhFHeDCOhB6s7KmaaOsuUsfvc4gi2uKonCt2s5tVEbfzuQBEleCY4TzXOtf9Lz4f3y1IaKAqu21XA6g/3QUhxDobTYgCfatiLiOuDVW19ErSMjvi5nFvOkCjDY4NqFRh468UqVqXIlqdOpWlXRA1qFk2ejeP44M8SAet6RJg5DDSxT7EVwTIOeFCuov2CDhM6XCt13oCtVJXmVI69LVFqP24oRYEAyT3ro1UFfWtCdiQNYXBxzofz6/O1VVOGlpSGg6ShaDLCe5mNhU30V1jo+sFVdtIdeaWgZfiVWgj78fdzXud1qO4jACYL1mOpi0i8aWkKhpVVP+hDsyxr9xESKbwCLP1OGudG4zuTNL9HvdFZmnb9A7H/9MFg7Q5CtIIs84kcRO81uWfq85TD0mSi/9a6qvjuC3B9ZcrLnAYpLOggjR1lLNSnBF5nrUSzdrt+KNyrWf1ivjItpQ40mdwNaA2HUaArOykVX94GG2dz850kbRLzbZ5+RzQcmK5RY3pRncpIk4pe8tOJmzpHjCrwlppioqXTV5n7+ghvad5usvMZM9LKzQY6uvhw0C3cLuZx7keRxzd5eY0VxWTkYYjfeyGxfH1eK6s5/mQ+ySvymblaHAJgF+/PhsHUHHDv/98Sks69Vbz7IgTbYLu52ry+fv761wrMwdYbScopTYjAL6/v45b03jcY3W69NUtZRyRXuPL1GWzqpAKDCWHAnAkInT89mkPs8g8ecLdkPh6/N57N+O7bXaejGLjI0bClbhXpOzuNVmqJJmenJhZBlfwK+dTvTDkKANeNM1KLRJO9+O5HrLqeB0T+SoqmLM3uyBPIrSiZxQTI/auffWiuFbFMmYOEbueMg9yla6z7zOPVw9dolzNIOknw4b5niSB+t0C9rF65seOVWG0CVmZ/+rp+TtdMOweHtO7rf8Mozb/khbu7bfqA31CI0sZSU0wuXMPvnfGjAV2SurTCvOQO03zqqaz5Hpd/PtcJalU5Wq4AdUzF2L32NutW19AMyerFhWgyo7VjKjMVWfXyhkb7/7aKN5fQ8b4oYNC8+JXJyehEZEJPx5riQclrbL1pcSws8uNSYkpOpH17tyJxhfoPZ6O29GIVsos8yOXpu91uTfCjYnaERcjP8CLrFfdvTSjbmQxal4K/vTPkPh+1DTYuifpqSu86k7fbB4uTYcGm84SOfvu01A/zr0y7ApB+ebqrx+XUYO9Zs4MR2XnQNuEzMSclFFj7B8af+TWj6R91HvpmjP/e0+ja+YPawNdPzV+zvH3uxv/AULyum8KhKPuAAAAAElFTkSuQmCC",
+  "imageHeight": 30,
+  "imageWidth": 28
+}

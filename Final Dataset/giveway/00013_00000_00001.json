@@ -1,0 +1,28 @@
+{
+  "version": "5.8.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "giveway",
+      "points": [
+        [
+          2.950000000000003,
+          2.1999999999999993
+        ],
+        [
+          23.549999999999997,
+          23.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "00013_00000_00001.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAbCAIAAADtdAg8AAAEhklEQVR4nDVV267bRgwcXnYl++QkadF/KtCH/v8fFAXSXM6xLe2FZMF1IgP2St6lyJnhkP786++PteyIw60DQTTDmbmUrbfu5u4wsyAue933rfc+etv36+eX108v5euPL+fkj69/tHb79v0LE1Gz2QAnuVyuESHMtda61ci4FOFmQxWl8Hnc23EvTJvgomGPxzinzfb29s+Yj20vHKBufpgHy3m2CBBJBD2OM4A5LQIA9THH9DGMSRll13otKnNYa8xytj6m3e6HClGAh4WHIdwjF6NPICLczQFhYmURcwIz6efX33/7fD0eP/qc+8u1g4qoTxOwhpkjHIAjzM2DBEXIzSITIwKYpHClPIDrJorz+9ebJwj5hrM1YQlzIdJAJgHAwgn5hAm51cMjiHnFlDFBRLWqC96O78kNCXLrtLNdPnycnpXpdKcIZFSAgznrcc98zQ0BJmYWFnH3o/dHN4IxZywLrxG7lE0kRkeEUgJNkRJhEDHFJjIiH6sIgVa9QTYZma8HhFVJ5jS4q2hV7scBoJaqhMzHF3+RUMPaudfazVVk5ZxlEoVNBwtImBA2CqPP+enDh5gDUiz8bKdGEBzKZG6rIhu9tz4I3OFM4XCHc67VQwLB4YrJhYb7cE8eUl182TZF1hPwIOTRUnZ2sjlfLi/75aX3s14v5+h7LdanaA2gAOf7t3u7S6nTTYru+3Z/3C5bVRV2MyJGAkNjeC2bmZdtD9bL6ydHgo2IslUsfGfrUnZvTetGIiR0P+8jnG3walNaLMfCerbeQHR/NHAdQZ74OTNAQRzTe1Dvo4EExKziINJCWsyRJCStiXdC7J79QMTH0W63RkGUevzFfJh6O+/fjvMhujHLXAfI4uIgJ7ZIiVFagRMFc66YpRQ6j/96uyEpf1YQAp6P1h5d84LZOPs45tyLXGyO81TOUMwpqinEq+XJQFwI/WFdohZPmrKK29ktBLpz0elj5l4Os1szMutE+kub2cYxzW2SFKLo2YPFukXwqpYC5uhGRirTbbgZUhXhcZ9hnupY4RBmNGdawbOj0jQthXaOoEe7vl454fNxvvezc9mhkoC7Z/esjkzSA+s0a+SrPcEjDJsRJkKlihR/f/+3n29C3o9jniNFA7T0IWLhopT24wa4CDTrXISzpPgyQcCXcMwhFdfC/XxrkoYquif/bumRzKm5mFUYKM0tfPDPnkx5riCpPPP0OpqOZuxeYdTOU1REee0IivQwBD7sV/XYS01xejpKlv+cCSmsSJOiTDnlAVcLMm/j8WBAa51LWM9rTLufQ4Ja60l+GsiSqFm+zC0swghahNNfnGISTVYOj8rs7t0zdWRNy9mYe+SpnAuZVkbMPoqQpXxI3qeLpK/DwJ7Ot186y3OC5P/IlRCNMfyZ0eJAFxZ5s/Scpa8ywaKpAZttjKLFU3m8KpqpwUQmbCSMtSjInmNA1/BK9BYh9DP6+krPDIioME8ze07FPBYr8aXtyDTMx8yZx5rPnp/FbP5kP8VqvXxDojoH3J5orkG8Wo7IUsbUx8hFbqb/AbTozsZhroaPAAAAAElFTkSuQmCC",
+  "imageHeight": 27,
+  "imageWidth": 26
+}

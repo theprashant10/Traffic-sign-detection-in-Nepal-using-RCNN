@@ -1,0 +1,28 @@
+{
+  "version": "5.8.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "giveway",
+      "points": [
+        [
+          3.25,
+          2.6999999999999993
+        ],
+        [
+          21.72714285714287,
+          25.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "00013_00003_00000.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAIAAAAmKNuZAAAESUlEQVR4nC1VOa4cVRQ9d3jV/38jMDgwATZiEhERGTgjQEhEhEQgInZCRs4KEDkb8BrYgEMcGYHdXfXugM5rl1pqdVe9O5yp5Luvvmk1fqKsszrw+pKGiNrw0RnRBbOcYYKWntldMhynIZ0F0eM4Xr46u6iLCCCzAVMUulrEABFRiFWJmVvn6tpzXtTgujVsc3RPc69qdz9tm1eXQjqzu2eJwkVaVIXVtKob2S2AVoZqj+HN3y3aqBY1DieqqttQ1o+YyiGV47RAmhfQmYJGN3R0K7qA69JDzdhBpHi/0K3qWe3zOLrSVE21Yza0upIlBF2uambzuGS1KtTUVZqNpopgobGaV9bhrj7nBDoyTMWNu1c3eya/j+7TtvHhKjTUPCtBqGEqpgPiqoiYXALisr4biKpGilotFtAoSIsckahElzQiq/kfCHTDNM2c3buETdQbqF66IBDtXSc+IVCtJAgcxazRInLMqE4RYgFiDWN1iZJZhID4gQpRUQUlBQkO4cOlw6hCDlNAqwxFFXQxDnIPMlJk56iAtJt5VWWWgaibKjLQadLjZhz7JI6QbCSJLiGqUNHMqAqS4yOL7UTFu6gG0t0pEDerSgWG2u3tnftU932G8UyAIl21Zojai39eUOdi5F1M5EpFlxLJpiYyx7Zl9+WI1nlzs2WXDUIstoBquUrvsh+qA2okoJI7F8VJ4QrJ6OPYZ87zPIgwcsYll10KyH69DxlQO479fP5XpVU1smSN1p1O2vnIVf5d1EQCGPTGpD5gRJ1yWrSIzhkzDnXo8CiYGj0jS5g05ZLIkrgu0/BYFeZR+3lfMFBUZJCCjoide/nNUa8nUVnTt7pC6BoeEDXzZV1hO2Tk5TJLjtPtiXnVRW1WzHkhcYEUSZQb11youq8tWml+msPNlmW5sC2W0YEey6H01Xk/R4S0RB9t45qJS0Mrg4JISxbVBFE6VZStllEgmHO/Aquir15ezq8uVDpWjBBZXG8t3ENpzOXZ6oqYWUGgc5mFKWYZdVkI5tzn/p909sraIqYl4PbNgNIxhjN2Gb88K4LKSUOqkx+I2Kjsyz5FrOuoJvpVSu0AhawMIanSgm3bXCt91WxYVQDlagtJUsU4Ygj0ZX9VMY9YUKxFcRXOipeVvDQy771/c/r5iyefPv7wb99emtWKv0yiukJbM+Y8LhEpMlZeLt2sdM4C0V7gckN3++B2fPvo4a9//Pb1Tz+8tFEtVUwovh+4uLpqV60JKBdCLjidTmq2CouILbtAd7fQxuN3Afzy4/dffvRJQVssW8g15SgwEx8hclRGl9pVmsyYqmT0JgmiZra3H6RuePac4z/968nHn59u3qRmUbV0KzS5wcd2d/fG/bdOd/fUNuWbc6UQkw/GnDMR+HvvPIjoP589/+z3p/cePrr0m3e394Hz+bxTz2iGaYa57nNqldomwzsOvh+WMrtqzqmmpuN/LtN0+/aV6pwAAAAASUVORK5CYII=",
+  "imageHeight": 26,
+  "imageWidth": 26
+}

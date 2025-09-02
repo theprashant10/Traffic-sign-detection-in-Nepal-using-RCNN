@@ -1,0 +1,28 @@
+{
+  "version": "5.8.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "noentry",
+      "points": [
+        [
+          3.0,
+          4.400000000000002
+        ],
+        [
+          28.0,
+          27.35719844357978
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "00017_00011_00022.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAIAAADZ8fBYAAAEfklEQVR4nF1Wi27cOAzkkJQ3uaL//6OHdi3zcRja2wLnKIFjWXwMh0Pj54+fahYRIgIRQLu7RbpLIGarG5BSE19fDY+qjMzYnZcB846LSBUXpAQ84N0VUQKlzblMNSK7UlXdj0yFXN2X8MI4DhF0o+dJzhsKU9Pm84aUAwq16pburJqnolDIxFmhuoSbGKtSmSL9WUxxdsWs1SFQBa59+vf3d5ReGZVhKjWmi8nTiFSU9Jy+f/t22CKqSpMY6EqKie/JWWev6+trZRE3BjuATGhMzqFfrxdUBYpnMSTj5VATUS5oTdSTg2SV72sH3QVPAFlSxIFhEBxoRhzm48eqZEFTq8TyrnAVo5irmvdNCrRfkchW5qMEQcSP7wrp3t3XFVMTEXPrvCacVjQM5rqjREwqAcLHPf4FRNxtNZQZVCl6Ldf1tVOO5RX/uq5KJp/7zIjn7CxbdugrxUNCmCSNqj40dZbCbE+5HJapraHa0nn4gWogYweBmvrjQ4beoQZYJ6tn0uQJWT+XJ6STVC0RGlrftnDJr7GMyksqmOlQlYF+uEFA86pO15Vi5MhN6CG5lyKvsCYz0IHecfXhVlf0kEeq/C9j+QMM+QkjiwuJNinSzoYTkC6XCBVUhqqllOQbqkU3lUyxwLNPxccWvU2/8d8cGkiH2YuYqWYWFP69XuprX0nmohR1F6YiOkPHGJP/03DTCcLmeND4+ufH+zwhptqMAGiI63qJ4HgdlRLxS61NXeENscOnQdeEpsZMh8ewMc7oih7Mjrqu33G9+YaipZwbzUKYGYko9Atbaoe6NlXIJoj7yNCBBWK87GbpyDLRcxOxrhwOt0u1mbsf53kVtHIvVx4uMsdcUbj//9tX1RgNqa5ZHRSjKvbeULDLlVid57mjBtqUk2BtN7si1jpyXzoFHC7w0GBMXvQ8VbN3pr5e3WkQP9Z7X/4+32aRicaCGeB7b4NIamX9ev9WgbESRQ0fgx/O3fcddcGsK0ZgCYaaeXX1MLVASZNIEyJFWbu7sooaPuXvUZZHkoYdtKUm6tGUEdJmeOWd0bds0PzEgM5uiihLf5Nqanvfy03np7datdRKCGdkwKwiK8upnea7g0Ixp1skm61yGPOidkk2fT25PypBBbRWS6owMqOL/Y6phYsgYtqfFonb3aBRaSpuS9SrTlWJi8p8S6FQ8zl5BK6ghSEDOaHAssNnOK5zv1Uh4Ci7Rb9bgpUvXwI5FLKsKucwR261YmdV7I+jmyfMJCNcVCNZKJFevgAHOvNKRtC7ovBmr8BH9NkgWV3JcZHJziAot2LM4rRHO2kpdQ/BjKuFp5qdR1KU6I40RWlO4SxmMpDEwZSfUj59OOxmCcUrY3Y5s6Sz+G3wp69yetdGG2UdX5GiEtWpBH1YdrPiITM9oovQFu1NgaeZnon6vPSQlnN4hE7N0YURgY+c3RONnxq3Ygzjk3y4Ux59pbVPHf5/jZw/dPi8diNOtbhBvp1x0M1nBqjND0S3H+7+UdhPYEX1uU/+Nf0oxvN5x/uG9H/1BbGWaRvCjAAAAABJRU5ErkJggg==",
+  "imageHeight": 29,
+  "imageWidth": 29
+}

@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "turnrightahead",
+      "points": [
+        [
+          16.75,
+          15.349999999999998
+        ],
+        [
+          24.55000000000001,
+          20.650000000000002
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "00033_00003_00000.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAIAAAC0Ujn1AAAEx0lEQVR4nJWW209UVxSHf3vvc5k7qCCIgkIAadGichGb1rTG1Jem/1YfGh8bmzRp+tamafoPNDF9qa03LBOsRRyZ4TYDHYbLmTn3vVdzxqKAw4Bf9uNe3+y9ztprDSMi7OPPhdmpR275ZW193iShQdNAIMUZIyLOeQgWQhEoFoNjqCuffoYbtwBRXxG3v7zjOlvafi+AyZ5zWk9+6hff3C6vWYlQS8qQc01wpigy2pzZnHONCc0Z+WQMN64Dxm6BFpPwRSM1YI7hvH5pOmv39besPJlJc3DOBCdwaIZumcbA0PnC0sIHl4eNK8NAbF+4ZupMONEdcRAWVLXGdROGgGDQ6jdufJg3KODb777/d6XEm+1Kg59Kok1DhiEJ1OxKvoSK3VwtgZa2DgmjqXofxxNlK5BKV03lAjjV1gEpjqoOgX8KKFvJmZl1nmi2kwPK85lC01zXeVnA3EKpaoezc8W2ZKeyLT1hGkmjt697dAx6o+SHDr66/c0hH+XZtP17Nl+yQ9cJGYuvWk5M4yIMwg1r+VGxRr3Xx9vfVmQfP9B01Uw9ncW96aLlpb1AgXHGlIK89nGfv4mODJ4sLP76cBq4cHO8kwNsV+CVjyZmcrkD1Vvzaiq7XPSE7wakFCcwKOIola0bF9PHQ4TprpWE+O1BPkmxaxOt/z/EHTo7G9wmQgJ/5FfLTlz5nmCKiaCVq2NCxFsy3F1NJBJIiN5t8bnRdXdRPPyrqImWydHd50bM1BurLSBbrlbcmMEQBEEiybpT+q2LZ1svAmh/9eOZDDqW6HTKfFry8ovLk6Nndhvy80uNi28+h+11m5EiogTjp00+9H7kXdvG4yWruBG9ucoG/nbs/FbZD7yaVXsdq+qVatlBY3U+t6kjzkEEmeLyan/7yCXcn/W+/vne/YJ69LQKD4VNeTdfym9VFUSt6sDZo7adA9RStjLEQcSgOILB/oQEpmefk99uFdR6ObXmYfZ5ab2wqivGoQluODvqEHCBQPHGuSa1DfIYeFQbXEgfBFRlqHxXbK1XHPfODxXHqSR5vN7JQ8G1eHyP2ley8alPdWUUuQCRIgYR+vXnK8NABtuOtbG55rsBZ2ke9SAGJXVTw45aAUGkVgepoZshIEn5ggVOrcoAw4gFEp6iQAZh4AWeo2TAmRLcN2P+m2QCroJPfmN1MgnTlKapMfKhXM+2ogZvmFJFQwxQTDAumJI+Ewi5NzTc/TpWAwwFDQd8xlQK/QM9YWAJrhgpz45aWDx1koiDWCglMabruiY8iMrYh+8NDR97HSsQ1ZbG4o3VBnDzavv4xEhNkMX5oq1mc4hRQiPOwOsnZgogzR8Zarvck9nJc4QOpDjSsdbGFWLU18RVlOh8YSq3UPUquX+LxU0dXlQzjEA14v7gcHd/d+vZ1J7ZqNdXOn6iWedLAl9MZubE5RePsy9K22ueazCYjKV1PWV4Q5cG+i6cO2a+PXUj4rHjh48CAGoFT4rlvEMrc4stujjbmhkf7EgMNhs2P/14cFPdDe/CaFfbELByun15/nnvmRPNvXXiR1K/IgkM9IKqyZ7BDA6DsSOPXdTxfKRPpq3qEbZGpf0ucAOZjsyeP2ENccHo2budmiTcqkPykF2et5bOrPwH7ZtK7vkqBnMAAAAASUVORK5CYII=",
+  "imageHeight": 30,
+  "imageWidth": 30
+}

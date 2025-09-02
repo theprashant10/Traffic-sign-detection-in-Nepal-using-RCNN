@@ -1,0 +1,28 @@
+{
+  "version": "5.8.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "noentry",
+      "points": [
+        [
+          3.0999999999999943,
+          3.6999999999999993
+        ],
+        [
+          25.799999999999997,
+          27.500000000000004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "00017_00011_00017 (2).png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAIAAADZ8fBYAAAEWElEQVR4nF1Wi47kNgwTJTmzvRaHov//l73HjG1JBeXMLlAj2B04jh4UyQR/f//bx1h7ierHt392eOQr5g8tEUHkktzDzK6H+IiUtXftqD1dSwU6rhVcPM2r0EuzcscSCKr+GB/DvomYCDIjYlUmwBSZUcVUqlYlVRVZWbX3BsQU4F4vZlDtokrUq7B+/3v5zHwxDp9KQ5mKyAmV0glESiCZjKgKHs3qvbN40kW0KlUNpfP5I+YvKKqS+aUiowQKqBQ6PCtTRNQYfrmXDVdbc+81M0O7bJF0NghZa2mkSo3xiEgI8jQEzSxzvOHjDzO9/JsDxOu6fr5eyVaqr24G8KyQQuYUwZKaz98HEyHgBbUDHFNCdyGZTMyGiAFEIDOl+4N0N7zU7+cF2Y1LimSwFNZLpBQwNYPVmj6uksqMtUsSuEaKqHnx4X2GR05UOsddySTdBKvhjqgqJF3VVId5RmbMnL+jShWuo8S7RrhfEQhZkDijy57b/xYp1L3qUGNakXg9Y3MmqPSeC5CpsSQwxsyVmyTpAYiZ595OpkhH61KLxBaTcojBAIm9cm8i0g1pd8O+cufcFUuJtYTwAIC5dpF/fkE/AH8jgUZABuCqsVfsBSkW22PhDAH+FuF8YyO29bSqWd+UKX/44xWsLfY2NTBsU0pt78iIT+DZfHOPc35rgJvn/2mb3OCm7/lUHZNFcZswFUwJSMSi1ljKHbvDcbB3zAbm+vj2mlO42RX1vkesrNkclaxopbPqktLhydL0Xn1PYQIjVlBT24VdIepzPinmJM5m7hH7nbn/UALipmNcGJfYcB9HeaQqkcUR1nnERfbzSbuoIxCyYvigQuswoa2jhE4IhVkOkctpIEpkmzG8jpFlZkbG5t/MtRvG5hnw8OGEGwg60n0L9KrcO+b88fz5KyM7J9N2aKY4B6tyc/QfaycZQwqXAQPinFTeR1XbeauQFSRDrXiqUModkvHfLDijJDHmfLWl3L4TVTNTT8h79U9W0jFcdTTrtEEHmSufXP70GlN18xPloPXz+bv1VndkMxPRrMhOa5SNRVW0r7T/8jXTQ2N2ctVMfOw4GN1euWMrzBtZ3Cqyfuswbp7JQ/sMtA3wdjxWgdaqPyYHFycuQe9b/nAPoV6zej6k3W0FLwqUvDXVgvF11xHNwLrtgo+9mx23rx9etQH99ed3QA+LT8Kexj0oRgGIMq3teCuffz1fcN9fw/ma0XExp1Pkud/jOAgSPW1ikev9fDWpbZGxbV17N9U+67lldcZOfuDW/S2QU/TdzhmxQl1hYwffEqVRYpW74dCby+3xJzYpS/7IG++baafZWwBvAysfD+hD1fl899d8v0shx1sYJAmo73rDc7yvvxTu1rT4roP2m76kzPh6PlEo+v6i+GI9v3K4kW+P/ly3QN8qeWvoMJcdRHPytp4vaJW8OZ8GZ+nnRD8T9O3m6tcmz9Cumrq3Br5abH723X6SevwPkf5/z7h2afMAAAAASUVORK5CYII=",
+  "imageHeight": 29,
+  "imageWidth": 29
+}

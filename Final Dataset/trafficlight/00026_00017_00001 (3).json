@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "trafficlight",
+      "points": [
+        [
+          4.550000000000011,
+          6.150000000000006
+        ],
+        [
+          26.650000000000006,
+          21.650000000000006
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "00026_00017_00001.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAaCAIAAAAvw3vjAAAERklEQVR4nE1WXXPbOAzEBylZlhQ7117//6+7h5u5aZrGji0RwA0A2qkfHJkiwcVisQj++PsHICCSmYEZIhHh3nZEAkAAQ/Tv1loTUREENAAudRwGongJsO87IpoZeixCoulwKL4U5z0y+Mfv6A9ARBGdiLiYiakZlFKZC4DHAgD01/j86afieDFTJDLwuJY4HXuA8UdD9D+VyYBb7Cm1+svc0qH4Jof8PAXgqHNH/2OB3gxiPdnwZQAqBcyIGDxn0M4VmKmpOlH9UIJ01P470aHfl+8AzHeDfUUXVQ/phYm0ARSAiSKUw+zLwTCAlgxlph00BL/OqZ/IYiICoa/nmgGI78wrHBuxJ2SqSWmSQP3YMztwQrxYf5TUTwOCqtzv1FohyrCdVzNRFZXUQdCBiEzsWAJNshyvH/x/RSckVCuI0hqIVHAZBBpMTKGlnjgCqkJREfCsIZBa1jNB+xnzHImYHTaVcVXZmrZCbIi7KSFGDR2BPwe6kLKSRWV7aa2H9Mu8Gv5cmQ6FtW0ANI4vy3oiMgTlpPFJC3xl4BJA+GLjITVQV9OTbixUbdutyfE4vL4ORFq4Fi7OZaCIHDOGplR6H/3JK8bnqaSkeG/WDMd54QP99/7Pdb9O87L7ajCeDRMt/+y7ZCL7uLNsZuIu0a+LCxRJD/NxnBcal39/3hrUaV7Opxdrt6LCDyYz79QsMTusbKeHFtF9KtgixEo0FUbdVNp0OE7jMk+v8/GF6zCf1nGqZu5WaWOp0SyUS8O7sXdfcGTdB7LjKhE2IcOXdZ2n4X6/Lkcbq5ZKZsM4zWT3zYARE2wGyTS8Vx6pdz3bkwmApvrZ2nL+67guBmL6yXRt229E5aEe59UDyj4g1ECU4nC/c90YqSYb+QofboVM1LTN5/M4z8DFfGWofDQhxCKG87KeXlaQjUUKFjTv7Kf1JddhSr0XMevNxJWooFXCsVZmVkCl4aPxL8GbWAnNLaf1uB431b3ZV+8/7O2LkFCduoGAuWJFBqpTHQ7DKCIKsEm7SLsy72rtdgfATfC4fltOZ2aIdn0YXCikuLS78DTpYASTXfY2rifj+vb2axhKMxGT1+mgSu39tw71crnUOmzXff+8oexDKabQoindZ8ah9D58jiwAUAXVQvRx+dDCl/ffy2F4/7wur+f7288JaAe6RsOGlEhV3G1bY84uiYGGhN+/fU82VAM1IrPnUxElfBkBPY8YyWzmpuPnfAXc4by505LuIjdxg+hjN7c8fNnASRZFbA9vRcSm5vVVvamYj2C3Yg3UhN4gqgIuTzP/z8Ap3ffmg1nVIhftCsnJ+xgI+c1ExZ3VJ4mXJSruMiAeDlXa1pqidgcn9u1FpHl0cf6zM0PeFOPGccfc6tPMqx9cSgQOcbnqWowu4r4TCZnT5Ylqzn93fSzFZVNKzSplHzkOr022BRYfhh44praXJ7WbKavsAPo/JEbrhDAvWPkAAAAASUVORK5CYII=",
+  "imageHeight": 26,
+  "imageWidth": 30
+}

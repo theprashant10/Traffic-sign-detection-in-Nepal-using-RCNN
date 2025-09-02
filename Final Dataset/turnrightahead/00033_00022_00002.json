@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "turnrightahead",
+      "points": [
+        [
+          13.25,
+          14.050000000000004
+        ],
+        [
+          19.35000000000001,
+          18.950000000000003
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "00033_00022_00002.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAIAAAAmKNuZAAAEn0lEQVR4nC2VWY9cVxWF1x7Oqa7J3XHAMihCWEJCgv//W6K8MBqCTUw6VdV1h7MHtG/7PlXdYY9rfYf+/Kc/TvOqvadbY17XFZnaOjMlo+1Pp/3hfr24j/BgERBFeEYgw4eTaOuNCUwId3Y3AFQXe2RkBhAZYI7IsazhINbMegMIYaLMdEO9CCYhYiJERAKsqkD92SJSVqz0xDpG3URWXWGZ/horw5lImbliETMhk79exPOyZCZlbhFRPWaGe2aCaNjwsEgHZyLMbas+iSkIwZW+qRCgwsLg1vvX76NCCHNvbctU7UvrFql9V82y1ltRaVgkiaX3RJXCoErBTW2MGkl4NbKNA0QiFTCpGtHeIczIsa6QWkAndK0riW1Ybt8A5OZ6eNjf7AWo5twsQSAhUNudDoc3LD11d7fhetKOB6Fc71jvYYv5Ktp2rUdWwOpMSN/tDzLWxb1GDTIPgPbHN4fzr18m3K7Dct2SCJGdDk1535to32F6NvOonvl1oB6u5zTftecFa5IzR64P+8fd4VfPL36dYmxLAqUw9SZGmD1bZCi3tg+fzAYHExNQNepIS0oWUWpEKcqH49N15uvkgU41ZBD509Pp8elRMpb7bZ3vw16Eu9FC7LkNigiiosGH5NljISXVB2n71eS+mIFrKFUXHnYIvAT33377Vkf/yz+uV0PIgZqlJWdVUytm1hsf51giKSN9RbqkqL2mI9JOH757/+G7byaaJqbH3t73N2O9/PDXH8Nba4dhU2mgdAQbps/OWsahyCShvu+XOTwpCcT87v3b3//u28vnn77//N9v/vBhv4bOP1/+N/kg95GtHFKtln58uOkcchKmylByq6flrU5lSH56e/7l+unjx/94njHJj7fnL9P0882nwZ0bSYzFrFxf1dWGpshjP0UugLtbKxe+6gjMutsff/nyuT0c7Hm5fPppvl4wVrPhCUFYxPBoWUvdPKTcAtPVULIKd7/e7iWkMjg17cfDGdDL5UaZXz59WaaIEEATXK1kYDN7RJh5RrLG+pt3b8rRJCJgHqJBHMyu6sI1w/P5TJmd0QQli1qiq47wGRvSNvYgInXO4ZiJURDCGmSHw2MEYx1Px/ZQ9/1ye8lSJQIFQyHacdC4ic/gAoISCYtH6JxiRZ/CT6UGjfmy3z1Gxrhf//23f94uI6llTTprUwgl39HoscBmKcUV+Kq24iBaVNIiwEZj2HLN9OPunPB//f1jZMtEy9ACEZhCYjmqD7ubr8q7DfeBLAbrNoyiSO0KRT34yDEFUdvFvnPkWMcKNzc7HY7hC2HBMkuSPOxB7MXaDSkJjU0QRBKbcBNmPhDOto71RZtiE6HF4m7320UYUs7jTA6PgK/DVJRAgVTixrJjkjoxCh6URF23FbqxlPpFVUBeakKtEVme3pxfOGP1IthXSvdMBYkKP/QuBM54Pei23y4CcxOROpjy9YRiAB7upZDibU1+M5puOmosqsppo3Fl2HopPQnQetuwIq3FWJeqRiSCMqnmU9j0r3hP0lZuYNGeXjsh6RtMipevB+5Y5pF6PDwKD6s6wmuNyFd5lVtfEVsK/D+KjJEwuDp5XgAAAABJRU5ErkJggg==",
+  "imageHeight": 26,
+  "imageWidth": 26
+}

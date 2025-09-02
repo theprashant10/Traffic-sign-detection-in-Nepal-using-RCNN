@@ -1,0 +1,28 @@
+{
+  "version": "5.8.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "giveway",
+      "points": [
+        [
+          4.050000000000011,
+          3.599999999999998
+        ],
+        [
+          23.35000000000001,
+          24.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "00013_00000_00003.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAE7klEQVR4nD1W6YocRwzWVTU96/WRgAnkiQJ+/0fID0NC4rWnj1JJCl+NybALO7RKJX1XL//x5csYQ63d+zbHyKpIHslya3Udr13brc1wz9nvn1/vn398++rnt3vr2rfTj+FHFrHY8JieRMmU4iO73TfbYhaxzqiISem+P3rrdrsdPpzz04ft9082jz+P/W9R6S896uhdemtEFNMpi4qJOLOsil7u93Ec1vs5wmcQERNr1XWeM2jyZN5+pbtd0aoqU81G+HntMctnkmglmUiQF3EWGRG/vb0p04hJoswSkSJSVFQ13d9/uPkkqu3HmD+OM6uGe4lYk9Z67O6RQqKqIh5VZt2ySoSz8MnEaRYqSmJmkqp63X4xFqb54zoe50FUWfE4XImaRlYSExENHywsxUVsqxkJY2yiIiphfKXiTKJqf/+131qZlZndervGxYVFi3tkGRpRb92vM4kikghQiIpyTCaKLNXGQijFAHweZ9OWmWPkGJOZmjYu6r2zNPeLRbPq3dYnxz7OMsxkrfWaASVVZomUUMwI/K7ZeVyHYo8iQhWWATST6oSAFOhfzZLifjc5Lo+wawyhpMpIoEA1VSrcjXtrm3Xz86GQg4hSzMHAiJlFWMP9vK6+9Wv4ZPrt9ZOMf2NeJlUqpb0Nj0R9kghOsfXbx/u7xq8vCzcpCmFsBxaKx3H5cVxR1rcr5wz6+tf3xlzarZsSa2aC7SpimkEq90pujWe4GkO6eEZcMNxqGiLT56nG9Lwmo9QGMEwpUFarGynjVJbO7LP4sX8304JiAed6BMUxcefaH/+MefamyriMMjIcd1dBiWiOH2xfRVGTdbLGfrztj+8F6UnW8iFRVAmL79e5T2tba6ZUXGECuSZUL6hmluVMge5BVhBdYtkaXfsjPJQYS4osDep5nPvhzd7d+j1gmGJTQqung2rZkZNgBIhgGQlGmCW9bVpUc1Q4RMXLG+mZV5W3xhVX1hw5DygfOOXqKl0xmjASZhlp3UJCxcMriPfziJxMaYyk0Jx+PbK8OELKK6Ky9fb0oTJAMIoQyAUbZpWqkIAuxCKMNv069dDX9x8rSYmv/YqRai1ZL/eJGBIVyQSPtdRhE8SrYNwpRBnP6KMIZ1PrwNHPY7SXdmtvj/06hrQ7C8/IZ3QIUgL8L+yYuCyJVDhwETgiActUJIuWGdRsK3e/voveIh+6ARqIHVG29Luif/0N+SCriDkgVAKkiFEQgngijqwx8/J1uC6aD6Zzzke/cVIwaKhmZtYY4iVIh4gyjSAjKsQcUqqYc+G7pI6v0AbxsR9jJ2fa3r+7bS/XqBwTRasQelyODARsmorG/HkcPfH4GawkEBqGThFtN0EktTFiP05rLZNyOMoWSysTSNBbbU5ciFuoEFQLWQWgLPIUWHnGZsozzdhJjjMg5QARy9jwWEyfEbATMAWcaCrMTU1ZVOwJznN8GD/hwptQhYtYhlIgdRMfqDEyWU3Ulv4Th5/L6uIbuy/W/jc75Mzc1SyhHfdRCfGptPXO/Rk0vvgohu8h0IUxLVGhyxOj1Rn9CoGrh89jnQxHqBtWFITGz5cbXpZQPAgTK9CwEi9jdcGyWPxn6gBwqjpjckIPmHH9+8CLeF45gtckBkWJMOBbYSqsK6ueMQhnLApWhKA7hkL44PaRGZAK9kN8oDKXCNemzP8Bx7BEKy0rho4AAAAASUVORK5CYII=",
+  "imageHeight": 28,
+  "imageWidth": 28
+}
